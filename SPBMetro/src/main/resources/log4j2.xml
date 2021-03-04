@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="WARN">
+    <appenders>
+
+        <File name="Exceptions" fileName="logs/exceptions.log" immediateFlush="true" >
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+
+        <File name="ErrorStations" fileName="logs/input_errors.log" immediateFlush="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <Filters>
+                <ThresholdFilter level="error" onMatch="DENY" onMismatch="ACCEPT" />
+            </Filters>
+        </File>
+
+        <File name="Stations" fileName="logs/search.log" immediateFlush="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <Filters>
+                <ThresholdFilter level="warn" onMatch="DENY" onMismatch="ACCEPT" />
+            </Filters>
+        </File>
+
+    </appenders>
+    <loggers>
+
+        <root level="info" >
+            <appender-ref ref="Exceptions" level="error"/>
+            <appender-ref ref="ErrorStations" level="warn"/>
+            <appender-ref ref="Stations" level="info"/>
+        </root>
+
+    </loggers>
+</configuration>

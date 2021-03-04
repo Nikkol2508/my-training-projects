@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectId" id="1ci1BuVB14LyKG6s1czJmyGTNEC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559622580090" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SPBMetro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SPBMetro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.RouteCalculatorTest" />
+        <item itemvalue="JUnit.All in SPBMetro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="" />
+      <created>1559569584327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559569584327</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Homework 8.8">
+      <created>1594834504007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594834504007</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework 8.8 corrections">
+      <created>1595080716001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595080716001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework 8.11">
+      <created>1595407856819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595407856819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 8.8" />
+    <MESSAGE value="Homework 8.8 corrections" />
+    <MESSAGE value="Homework 8.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 8.11" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="196" y="23" width="800" height="649" key="#Project_Structure" timestamp="1590998638245">
+      <screen x="0" y="23" width="1152" height="649" />
+    </state>
+    <state x="196" y="23" width="800" height="649" key="#Project_Structure/0.23.1152.649@0.23.1152.649" timestamp="1590998638245" />
+    <state x="449" y="242" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590996648239">
+      <screen x="0" y="23" width="1152" height="649" />
+    </state>
+    <state x="449" y="242" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1152.649@0.23.1152.649" timestamp="1590996648239" />
+    <state x="226" y="28" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1592750406885">
+      <screen x="0" y="23" width="1152" height="649" />
+    </state>
+    <state x="226" y="28" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1152.649@0.23.1152.649" timestamp="1592750406885" />
+    <state x="121" y="23" key="CommitChangelistDialog2" timestamp="1595407856454">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="121" y="23" key="CommitChangelistDialog2/0.23.1152.646@0.23.1152.646" timestamp="1595407856454" />
+    <state width="1069" height="154" key="GridCell.Tab.0.bottom" timestamp="1595586993293">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="154" key="GridCell.Tab.0.bottom/0.23.1152.646@0.23.1152.646" timestamp="1595586993293" />
+    <state width="1069" height="154" key="GridCell.Tab.0.bottom/0.23.1152.647@0.23.1152.647" timestamp="1593450631376" />
+    <state width="1069" height="154" key="GridCell.Tab.0.bottom/0.23.1152.649@0.23.1152.649" timestamp="1594471218014" />
+    <state width="1069" height="154" key="GridCell.Tab.0.bottom/0.23.1152.650@0.23.1152.650" timestamp="1594739030436" />
+    <state width="1069" height="154" key="GridCell.Tab.0.center" timestamp="1595586993292">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="154" key="GridCell.Tab.0.center/0.23.1152.646@0.23.1152.646" timestamp="1595586993292" />
+    <state width="1069" height="154" key="GridCell.Tab.0.center/0.23.1152.647@0.23.1152.647" timestamp="1593450631375" />
+    <state width="1069" height="154" key="GridCell.Tab.0.center/0.23.1152.649@0.23.1152.649" timestamp="1594471218013" />
+    <state width="1069" height="154" key="GridCell.Tab.0.center/0.23.1152.650@0.23.1152.650" timestamp="1594739030435" />
+    <state width="1069" height="154" key="GridCell.Tab.0.left" timestamp="1595586993291">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="154" key="GridCell.Tab.0.left/0.23.1152.646@0.23.1152.646" timestamp="1595586993291" />
+    <state width="1069" height="154" key="GridCell.Tab.0.left/0.23.1152.647@0.23.1152.647" timestamp="1593450631374" />
+    <state width="1069" height="154" key="GridCell.Tab.0.left/0.23.1152.649@0.23.1152.649" timestamp="1594471218012" />
+    <state width="1069" height="154" key="GridCell.Tab.0.left/0.23.1152.650@0.23.1152.650" timestamp="1594739030434" />
+    <state width="1069" height="154" key="GridCell.Tab.0.right" timestamp="1595586993293">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="154" key="GridCell.Tab.0.right/0.23.1152.646@0.23.1152.646" timestamp="1595586993293" />
+    <state width="1069" height="154" key="GridCell.Tab.0.right/0.23.1152.647@0.23.1152.647" timestamp="1593450631376" />
+    <state width="1069" height="154" key="GridCell.Tab.0.right/0.23.1152.649@0.23.1152.649" timestamp="1594471218013" />
+    <state width="1069" height="154" key="GridCell.Tab.0.right/0.23.1152.650@0.23.1152.650" timestamp="1594739030435" />
+    <state width="1069" height="193" key="GridCell.Tab.1.bottom" timestamp="1595069064680">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="193" key="GridCell.Tab.1.bottom/0.23.1152.646@0.23.1152.646" timestamp="1595069064680" />
+    <state width="1069" height="193" key="GridCell.Tab.1.bottom/0.23.1152.650@0.23.1152.650" timestamp="1594739002263" />
+    <state width="1069" height="193" key="GridCell.Tab.1.center" timestamp="1595069064679">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="193" key="GridCell.Tab.1.center/0.23.1152.646@0.23.1152.646" timestamp="1595069064679" />
+    <state width="1069" height="193" key="GridCell.Tab.1.center/0.23.1152.650@0.23.1152.650" timestamp="1594739002261" />
+    <state width="1069" height="193" key="GridCell.Tab.1.left" timestamp="1595069064678">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="193" key="GridCell.Tab.1.left/0.23.1152.646@0.23.1152.646" timestamp="1595069064678" />
+    <state width="1069" height="193" key="GridCell.Tab.1.left/0.23.1152.650@0.23.1152.650" timestamp="1594739002260" />
+    <state width="1069" height="193" key="GridCell.Tab.1.right" timestamp="1595069064679">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1069" height="193" key="GridCell.Tab.1.right/0.23.1152.646@0.23.1152.646" timestamp="1595069064679" />
+    <state width="1069" height="193" key="GridCell.Tab.1.right/0.23.1152.650@0.23.1152.650" timestamp="1594739002262" />
+    <state x="105" y="23" key="SettingsEditor" timestamp="1595078177398">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="105" y="23" key="SettingsEditor/0.23.1152.646@0.23.1152.646" timestamp="1595078177398" />
+    <state x="196" y="86" key="Vcs.Push.Dialog.v2" timestamp="1595407872049">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="196" y="86" key="Vcs.Push.Dialog.v2/0.23.1152.646@0.23.1152.646" timestamp="1595407872049" />
+    <state x="289" y="178" key="com.intellij.ide.util.TipDialog" timestamp="1595320313011">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="289" y="178" key="com.intellij.ide.util.TipDialog/0.23.1152.646@0.23.1152.646" timestamp="1595320313011" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest.ic" NAME="RouteCalculatorTest Coverage Results" MODIFIED="1594833975864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

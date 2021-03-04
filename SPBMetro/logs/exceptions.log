@@ -1,0 +1,5 @@
+2020-07-24 13:35:18.180 [main] ERROR Main - Error 
+java.lang.NullPointerException: null
+	at RouteCalculator.getRouteOnTheLine(RouteCalculator.java:57) ~[classes/:?]
+	at RouteCalculator.getShortestRoute(RouteCalculator.java:22) ~[classes/:?]
+	at Main.main(Main.java:39) [classes/:?]
